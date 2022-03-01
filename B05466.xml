@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation against prophaneness</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05466</idno>
+            <idno type="STC">Wing S1600</idno>
+            <idno type="STC">ESTC R183337</idno>
+            <idno type="EEBO-CITATION">51784655</idno>
+            <idno type="OCLC">ocm 51784655</idno>
+            <idno type="VID">175059</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05466)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175059)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2711:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation against prophaneness</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>[Edinburgh, :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette: royal arms with initials W R.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crimes without victims --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Blasphemy --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Swearing --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Fornication --  Scotland --  Early works to 1800.</term>
+               <term>Drunkenness (Criminal law) --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175059:1" rendition="simple:additions"/>
+            <head>A PROCLAMATION <hi>Againſt Prophaneneſs.</hi>
+            </head>
+            <p>
+               <hi>WILLIAM</hi> by the Orace of God, King of <hi>Great-Britan, France</hi> and <hi>Ireland,</hi> Defender of the Faith; To <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Macers of Our Privy Council, Meſſengers at Arms, Our Sheriffs in that Part conjunctly and ſeverally, ſpecially Conſtitute, Greeting: FORASMUCH as, notwithſtanding of the many good Laws and Acts of Parliament made againſt Prophaneneſs, and for the reſtraining and ſuppreſſing of Vice and Im<g ref="char:EOLhyphen"/>moralities, the ſame do ſtill abound to the great diſhonour of God, the Re<g ref="char:EOLhyphen"/>proach of the true Proteſtant Religion, and to the Hurt and Prejudice of the Peace and Government of the Realm; And We being reſolved, as it hath alwiſe been Our Care, to have theſe Laws and Acts of Parliament put to due and vigorous Execution; And conceaving that the Printing and Pub<g ref="char:EOLhyphen"/>liſhing of an Abreviat of the ſaids acts duely collected, and laid together for the better Information and Inſtruction of all Our Judges, Officers and Miniſters of the Law, and alſo of Our other Good Subjects, may be of ſpecial Uſe and Advantage, for their better Obſervation and Execution, ac<g ref="char:EOLhyphen"/>cording to their full Tenor and Intent: THEREFORE, and in Anſwer to an Addreſs preſented to the Lords of Our Privy Council, by the Com<g ref="char:EOLhyphen"/>miſſioners of the late General Aſſembly of this Church for that effect; We with Advice of the ſaids Lords of Our Privy Council, have thought fit, and do hereby appoint the Abbreviat and Liſt of the ſaids Acts hereto ſubjoyn<g ref="char:EOLhyphen"/>ed to be Printed, and duely publiſhed at all the Mercat-Croſſes of the Head-Burghs of the Shires, Stewartries, Regalities and Bailliaries of this Realm: And farder, that in all time coming, this preſent Proclamation, with the Abbreviat and Liſt thereto ſubjoyned, be publickly read twice every Year in all the Paroch Churches and Congregations within this Kingdom, to wit, on the firſt Lords Day after each Term of <hi>Whitſunday</hi> and <hi>Martinmaſs</hi> yearly, af<g ref="char:EOLhyphen"/>ter the Forenoons Sermon, and before the diſſolving of the Congregation; and that all Presbytries be careful to have this Publication conſtantly and ſo<g ref="char:EOLhyphen"/>lemnly made in all Churches within their Bounds, with ſuitable and pertinent Exhortations, as they will be anſwerable; And We peremptorly Command and Charge, all Judges, Magiſtrats and Officers of the Law whatſoever, each of them within their Bounds and Juriſdictions, and as they are thereto reſ<g ref="char:EOLhyphen"/>pectively
+<pb n="2" facs="tcp:175059:2" rendition="simple:additions"/>impowered, to be careful to put the foreſaids Laws above and after<g ref="char:EOLhyphen"/>mentioned, to due and exact Execution upon their higheſt perril. <hi>Follows</hi> the Liſt and Abbreviat of the Laws againſt Prophaneneſs, and for ſuppreſſing of Vice and Immorality. <hi>Imprimis, Act</hi> 21. <hi>Charles</hi> ſecond, Parliament firſt, Seſſion firſt, Intituled, <hi>Ast againſt the Crime of Blaſphemy,</hi> that whoſo<g ref="char:EOLhyphen"/>ever not being diſtracted in his Wits, ſhall rail upon, or Curſe GOD, or any of the Perſons of the Bleſſed Trinity, ſhall be proceſſed before the Chief Juſtice, and being found Guilty, ſhall be puniſhed with death: As alſo whoſoever ſhall deny GOD, or any of the Perſons of the Bliſſed Trinity; and obſtinately continue therein, being proceſſed and found Guilty, ſhall be pu<g ref="char:EOLhyphen"/>niſhed with Death. <hi>Item,</hi> the Act of Our firſt Parliament, Seſſion fifth, <hi>cap.</hi> Eleventh, ratifying the foreſaid Act; And farder Statuting, that whoever hereafter ſhall in their Writing or Diſcourſe, Deny, Impugne or Quarrel, Argue or Reaſon againſt the Beeing of GOD, or any of the Perſons of the Bleſſed Trinity, or the Authority of the Holy Scriptures of the Old and New Teſtament, or the Providence of GOD, in the Government of the World, ſhall for the firſt Fault be puniſhed with Impriſonment, ay and while they give publick Satisfaction in Sackcloath to the Congregation in which the Scandal was committed; And for the ſecond Fault, the Delinquent ſhall be fined in a vears valued Rent of his real Eſtate, and the twenty part of his free perſonal Eſtate, the equal half of which Fines to be applyed to the poor of the Pa<g ref="char:EOLhyphen"/>roch where the Crime ſhall be committed, and the other half to the Infor<g ref="char:EOLhyphen"/>mer, beſides his being impriſoned, ay and while he again make Satisfaction as above; And for the third Fault, he ſhall be puniſhed by Death, as an ob<g ref="char:EOLhyphen"/>ſtinat Blaſphemer; And all Magiſtrats and Miniſters of the Law, and Judges in this Kingdom, are Authorized and Required to put this Act in Execution as to the firſt Fault, as are all Sheriffs, Stewarts, Baillies of Bailliaries and Regalities and their Deputs, and Magiſtrats of Burghs, to put the ſame in Execution as the ſecond Fault; Remitting the Execution thereof as to the third Fault, to the Lords of his Majeſties Juſticiary: <hi>Secundo,</hi> All Laws and Acts of Parliament made againſt Curſing and Swearing, as Act Queen <hi>Mary,</hi> parliment fifth, <hi>Cap.</hi> ſixteenth, whereby it is Statute, that whoſoever Swears abominable Oaths, and deteſtable Execrations, ſhall be puniſhed with the pecuniary Mulcts, and other pains contained in the ſaid Act: Act <hi>James</hi> ſixth, Parliament ſeventh, <hi>cap</hi> one hundred and third, ratifying the fore<g ref="char:EOLhyphen"/>ſaid Act, with an Augmentation of the Pains; and that Cenſors be appointed in the Mercat place of all Burrows, and other publick Fairs, with Power to put the Swearers of abominable Oaths in Ward, while they have payed the ſaids Pains, and find Surety to abſtain in time coming, and that by Direction and Commiſſion of the Sheriffs, Stewarts, Baillies, Provoſts, Baillies of Burrows Lords of Regalities, and other ordinary Officers; And that all Houſe-holders delate to the Magiſtrats, the Names of the Tranſgreſſors of this preſent Act within their Houſes, that they may be puniſhed under the pain to be eſteemed and puniſhed as Offenders themſelves; And that if the ſaid Magiſtrats be remiſs or negligent in the Execution of this Act, they ſhall upon Complaint be called before us, and our Privy Council, and committed to Ward during pleaſure, and find Surety under great Pains, at our ſight, for that exact Diligence in executing the ſaid Act thereafter, <hi>Ast Charles.</hi> 2d. <hi>Parl.</hi> 1. Seſſion firſt, <hi>Cap.</hi> nineteenth, ratifying and approving all Acts of Parliament againſt all manner of Curfing and Swearing. And farder declaring, that each perſon who ſhall Blaſpheme, Swear or Curſe, ſhal be lyable in the pains following; each
+<pb n="3" facs="tcp:175059:3" rendition="simple:additions"/>Nobleman in twenty pound <hi>ſcots,</hi> each Baron in twenty Merks, each Gentle<g ref="char:EOLhyphen"/>man, Heretor or Burgeſs in ten Merks, each Yeoman in fourty ſhilling <hi>ſcots,</hi> each Servant in twenty Shilling <hi>toties quoties,</hi> each Miniſter in the fifth part of his years Stipend, and if the party Offender be not able to pay the Penalties foreſaid, then to be exampl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry puniſhed in his Body, according to the Merit of his Fault: And this Act is again Ratified, <hi>Charles</hi> ſecond, Parliament ſecond, Seſſion Third, <hi>Cap.</hi> twenty two, which contains a diſtinct and particular Method, how and by whom, it ſhall be execute. <hi>Tertio,</hi> All Laws and Acts of Parliament for Obſervation of the Sabbath or Lords Day, As Act <hi>James</hi> fixth, Parliament ſixth, <hi>Cap</hi> ſeventy one; That there be no Mercats nor Fairs holden upon the Sabbath-day, nor yet within the Kirk or Kirk-yards that day, or any other day; and that no Handy-Labour be uſed upon the Sabbath-Day, under the pain of Ten ſhilling <hi>Scots;</hi> and that no Gaming, Playing, paſſing to Taverns and Ale Houſes, or ſelling of Meat or Drink, or wilful remaining from the Paroch kirk in time of Sermon, or Prayers, upon the Sabbath-Day be uſed, under the pains of Twenty ſhilling <hi>Scots,</hi> and who refuſe, or are unable to pay the ſaids pains, ſhall be put and holden in the Stocks, or ſuch other Ingyne deviſed for pub<g ref="char:EOLhyphen"/>lick puniſhment by the ſpace of Twenty Four Hours; And this Act as to the diſcharging of Fairs and Mercats holden on Sabbath-days, Ratifyed <hi>James</hi> the Sixth, Parliament Thirteenth, <hi>Cap</hi> one hundred and fifty nine, and again Ra<g ref="char:EOLhyphen"/>tified againſt theſe who prophane the Sabbath Day, by Selling or preſenting Goods to be ſold upon the ſaid day, and the pain of the Third Tranſgreſſion, declared to be Eſcheat of their haill Goods and puniſhment of their Perſons at Our Will; <hi>James</hi> ſixth, Parliament Fourteenth, <hi>cap.</hi> one hundred and ninety eight. <hi>Item,</hi> Act eighteenth <hi>Charles</hi> ſecond, Parliament firſt, Intituled, <hi>Act for the due Obſarvation of the Sabbath-Day,</hi> Ratifying and Approving all former Acts of Parliament made for Obſervation of the Sabbath-Day, and againſt the Breakers thereof, and diſcharging all going of Salt-pans, Milns or Kilns, under the pain of twenty pounds <hi>ſcots,</hi> to be payed by the Heretors and Poſſeſſors thereof; and all Salmond-fiſhing, hyring of Shearers, carrying of Loads, keep<g ref="char:EOLhyphen"/>ing of Mercats, or uſing of Merchandize on the ſaid Day, and all other Pro<g ref="char:EOLhyphen"/>phanations thereof, under the pain of Ten pounds <hi>ſcots,</hi> the one half whereof to be payed by the ſaid Fiſher, and Shearer hyred, and the other half by the perſons hyring, and if the Offender be not able to pay the ſaids penalties, that he be examplary puniſhed in his Body, according to the Merit of his Fault; and this Act ratified <hi>Charles</hi> 2d. Parliament ſecond, Seſſion third, <hi>cap.</hi> twenty two. <hi>Quarto,</hi> The Act <hi>Charles</hi> ſecond, Parliament firſt, Seſſion firſt, <hi>Cap.</hi> twenty, Intituled, <hi>Act againſt Curſing and Beating of Parents,</hi> whereby it is Statute, that whoſoever Son or Daughter above the age of ſixteen years, not being diſtracted, ſhall beat or Curſe either their Father or Mother, ſhall be put to death without Mercy, and ſuch as are within the age of ſixteen years, and paſt the age of pupillarity, to be puniſhed at the Arbitriment of the Judge, according to their deſerving. <hi>Quinto,</hi> All Acts againſt Drunkards and exceſſive Drinking, ſuch as the Act <hi>James</hi> Sixth, Parliament twenty two, <hi>Cap:</hi> twenty, whereby it is Statute, That all perſons convict of Drunkenneſs, or of Haunting of Taverns and Ale-Houſes after Ten Hours at Night, or any time of the Day, except in the time of Travel, or for ordinary Refreſh<g ref="char:EOLhyphen"/>ment, ſhall for the firſt Fault pay Three pounds, or if unable, or refuſing, be put in Joggs or priſon for the ſpace of ſix Hours; For the ſecond Fault five pounds, or if unable, or refuſing, to be keept in Stocks or priſon for the ſpace of twelve Hours; And for the Third Fault, to pay Ten pounds, or in caſe
+<pb n="4" facs="tcp:175059:4" rendition="simple:additions"/>foreſaid to keeped in Stocks or Priſon for the ſpace of twenty four Hours: if they tranſgreſs thereafter, to be committed to Priſon till they find Caution for their good Behaviour. <hi>Item,</hi> the Act <hi>Ch.</hi> 2d. <hi>Parl.</hi> 1. <hi>Seſſ.</hi> 1. <hi>cap.</hi> 19. <hi>Ra<g ref="char:EOLhyphen"/>tifying all former Acts againſt the Crime of exceſſive Drinking,</hi> Declaring,
+<q>That whoſoever ſhall drink unto Exceſs, ſhall be lyable, each <hi>Nobleman</hi> in 20 <hi>lib. ſcots,</hi> each <hi>Baron</hi> in 20 <hi>Merks,</hi> each <hi>Gentleman, Heretor</hi> or <hi>Burgeſs</hi> in 10 <hi>Merks,</hi> each <hi>Yeoman</hi> in 40 <hi>ſhilling,</hi> each <hi>Servant</hi> in 20 <hi>ſhilling ſcots, to<g ref="char:EOLhyphen"/>ties quoties;</hi> each <hi>Miniſter</hi> in the fifth part of his yearly Stipend, and that the Offender unable to pay the foreſaids Penalties, to be examplary puniſhed in his Body, according to the merit of his Fault.</q> 
+               <hi>Sexto.</hi> The Laws and Acts of Parliament made againſt Adulterers, as <hi>Q. Mary. Parl.</hi> 5. <hi>cap.</hi> 20. whereby it is Statute,
+<q>That manifeſt and incorrigible Adultries after the proces of Haly-kirk, ſwafar as the ſamen may extend is uſed upon them, for their Diſobedience and Contemption, be denunced Rebels and put to the Horn, and all their Moveable inbrought as Eſcheat, and no Appellation in<g ref="char:EOLhyphen"/>terponed frae the ſaid Cenſures of Haly-kirk to ſuſpend the Horning.</q> Act <hi>Q. Mary, Parl.</hi> 9. <hi>cap.</hi> 74.
+<q>That all notour and manifeſt Committers of Adultrey be puniſhed with all rigor unto the death, as well the Woman as the Man, after due Monition made to obſtain frae the ſaid nottour Crime, and that for other Adultrey the Acts and Laws made thereupon off before be put to Execution with all rigor.</q> And the <hi>Act Ja.</hi> 6. <hi>Parl.</hi> 7. <hi>cap.</hi> 105. whereby it is declared,
+<q>That it ſhall be judged nottour and manifeſt Adul<g ref="char:EOLhyphen"/>try wordie of the pain of death, whoever has Bairns one or moe procreat betwixt the perſons Adulters, or when they keep Company in Bed together notoriouſly known, or when they are ſuſpect of Adultery, and duely admo<g ref="char:EOLhyphen"/>niſhed by the Kirk, to abſtain and ſatisfie the Kirk by Repentance and Pur<g ref="char:EOLhyphen"/>gation, yet contemptuouſly refuſing, are Excommunicat for their Obſtinacy.</q> 
+               <hi>Septimo.</hi> All Laws and Acts of Parliament made againſt Fornication, as <hi>Act Ja.</hi> 6. <hi>Parl.</hi> 1. <hi>cap.</hi> 13, Statuting,
+<q>That who ſhall commit the filthy Vice of Fornication, ſhall for the firſt Fault, as well the Man as the Woman, pay the Sum of fourty pounds, or then both he and ſhe ſhall be impriſoned for the ſpace of eight days, their Food to be Bread and ſmall Drink, and thereafter preſented to the Mercat-place of the Town or Paroch bare-headed,ſhal there ſtand faſtned, that they may not remove for the ſpace of two Hours; For the ſecond Fault, the Sum of one hundred Merks, or then the forenamed days of their Impriſonment ſhall be doubled, their Food to be Bread and Water alannerly, and thereafter ſhall be preſented to the Mercat-place, and the Heads of both the Man and the Woman to be Shaven,</q> And for the third Fault, one hundred Pounds, or elſe the above Impriſonment to be Triplyed, their Food to be Bread and Water allennarly; And thereafter to be taken to the deepeſt and fouleſt Pool of Water of the Town or Paroch, and there to be thrice Doucked, and then Baniſhed the ſaid Town and Paroch for ever, and how oft any perſon ſhall be Convict thereafter of the ſaid Vice of For<g ref="char:EOLhyphen"/>nication, that ſo oft the third penalty be execute upon them. <hi>Item,</hi> The Act <hi>Charles</hi> ſecond, Parliament firſt, Seſſion firſt, <hi>Cap.</hi> Thirty Eight, Im<g ref="char:EOLhyphen"/>powering the Juſtices of Peace to put in Execution Acts of Parliament, for puniſhing the perſons Guilty of Fornication, and that they cauſe them pay the pecunial Sum following: Each Nobleman for the firſt Fault, Four hundred Pounds; Each Barron Two hundred Pounds. Each other Gentle<g ref="char:EOLhyphen"/>man or Burgeſs, one hundred Pounds. Every other perſon of inferior Quality Ten Pounds <hi>Scots</hi> Money, and that theſe Penalties be doubled <hi>toties quities,</hi> according to the Relapſes, and Degrees of the Offence, and Quality of the Offenders; And that they be payed not only by the Man, but alſo by the Wo<g ref="char:EOLhyphen"/>man
+<pb n="5" facs="tcp:175059:5"/>man according to her Quality, and the Degree of her Offence, the one with<g ref="char:EOLhyphen"/>out prejudice of the other. <hi>Item,</hi> the ſaid Act <hi>Charles</hi> ſecond, Parliament firſt, <hi>Seſſion</hi> firſt, <hi>Cap:</hi> thirty eight, <hi>Statutes;</hi> That the Juſtices of Peace put in execution all Acts of Parliament for puniſhing all perſons who ſhall be Mockers or Reproachers of Piety, or the exerciſe thereof, and cauſe them pay the Penalties contained in the forementioned Act of Parliament, againſt pro<g ref="char:EOLhyphen"/>phane Swearing. <hi>Item,</hi> the Act of our firſt Parliament, Seſſion fifth, <hi>Cap:</hi> Thirteenth, Intituled, <hi>Act againſt Prophaneneſs,</hi> ſtrictly requiring and en<g ref="char:EOLhyphen"/>joyning, that all Sheriffs and their Deputs, Stewarts and their Deputs, Baillies of Bailliaries and Regalities, and their Deputs, Magiſtrats of Burghs-Royal and Juſtices of Peace within whoſe bounds any of the ſaids Sins of Curſing, Swearing, Drunkenneſs, Fornication, Prophanation of the Lords Day, and Mocking and Reproaching of Religion ſhall happen to be committed, to put the ſaids Acts to exact and punctual Execution at all times, without neceſſity of any Diſpenſation, and againſt all perſons, whether Officers, Souldiers or o<g ref="char:EOLhyphen"/>thers without Exception; Certifying, that ſuch of the ſaids Judges as ſhall refuſe, neglect, or delay to put the Laws made againſt the ſaid Sins in Execu<g ref="char:EOLhyphen"/>tion, upon application of any Miniſter or Kirk-Seſſion, or any perſon in their Name offering Information, and ſufficient Probation, ſhall <hi>toties quoties</hi> be ſubject and lyable to a Fine of an hundred pounds <hi>Scots,</hi> for which they may be purſued at the inſtance of the Agent for the Kirk, or Miniſter of the Paroch by ſummar Proceſs, without the Order of the Roll. <hi>Item,</hi> The twen<g ref="char:EOLhyphen"/>ty one Act of the 2d: Seſſion of the current Parliament, dated the nineteenth of <hi>July</hi> one thouſand ſix hundred ninety, Intituled, <hi>Act anent murdering of Children,</hi> whereby it is Statute,
+<q>That if any Woman ſhall conceal her be<g ref="char:EOLhyphen"/>ing with Child during the whole ſpace, and ſhall not call for, and make uſe of Help and Aſſiſtance in the Birth, the Child being found dead or amiſſing, the Mother ſhall be holden and repute the Murderer of her own Child, tho' there be no appearance of Bruiſe or Wound upon the Body of the Child:</q> All which Acts above mentioned, are hereby ordered to be publiſhed only for ſuperabundance, and the better Information of our Leidges, without the leaſt derogation to other Acts or Laws not publiſhed in this matter. OUR WILL IS HEREFORE, and we charge you ſtrictly and Command, that in<g ref="char:EOLhyphen"/>continent theſe our Letters ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and to the remanent Mercat-croſſes of the Head-burghs of the ſeveral Shires &amp; Stewartries within this Kingdom, and in Our Name and Authority make pub<g ref="char:EOLhyphen"/>lication hereof, that none may pretend Ignorance; And We Ordain Our Solicitor to diſpatch Copies hereof, to the Sheriffs of the ſeveral Shires, and Stewarts of Stewartries and their Deputs or Clerks, to be by them publiſhed at the Mercat-croſſes of the Head-burghs upon Receipt thereof, and imme<g ref="char:EOLhyphen"/>diatly ſent to the ſeveral Miniſters, to the effect the ſame may be read and in<g ref="char:EOLhyphen"/>timat at their Paroch Churches, upon the Lords Day immediatly following the Publication hereof at the ſaids Mercat-croſſes. And Ordains theſe pre<g ref="char:EOLhyphen"/>ſents to be Printed and Publiſhed in manner foreſaid.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under Our Signet at</hi> Edinburgh
+<date>
+                     <hi>the twenty fifth day of</hi> January, <hi>and of Our Reign the ninth Year</hi> 1698.</date>
+               </dateline>
+            </closer>
+            <closer>
+               <signed>
+                  <hi>Per Actum Dominorum Secreti Concilii.</hi> GILB. ELIOT. <hi>Cls. Sti. Concilii.</hi>
+               </signed>
+            </closer>
+            <closer>GOD ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to his moſt Excellent Majeſty, <hi>Anno. Dom.</hi> 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
